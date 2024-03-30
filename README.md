@@ -20,11 +20,11 @@ Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.ea
 
 <table style="width:100%">
   <tr>
-     <td><img src="https://github.com/MayankChowdhary/BrotherhoodNotes/blob/master/screenshots/Screenshot7.png" >
+     <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot4.webp" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/BrotherhoodNotes/blob/master/screenshots/Screenshot6.png" >
+    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot2.webp" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/BrotherhoodNotes/blob/master/screenshots/Screenshot5.png" >
+    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot3.webp" >
 </td>
     
     
