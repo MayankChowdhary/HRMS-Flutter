@@ -1,16 +1,32 @@
-# employee_attendance_flutter
+# HRMS-Flutter
+This is Human Resource Management APP in Flutter.
 
-A new Flutter project.
+This is Human Resource Management App for office
+employees. In this app employee can register their
+attendance by check-in check-out feature, can apply
+for leave and see their balance leave. Can see their
+attendance with present, absent, Late. in pie chart
+and Table view. Can apply for Regularization,
+Resignation, Reimbursement and ID-Card.
 
-## Getting Started
+Technology Used:
+Flutter , Dart, Getx State management, PDF generator,
+PieChart, Location package, TableView, Push
+Notifications.
 
-This project is a starting point for a Flutter application.
+Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.eattendanceapp
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table style="width:100%">
+  <tr>
+     <td><img src="https://github.com/MayankChowdhary/BrotherhoodNotes/blob/master/screenshots/Screenshot7.png" >
+</td>
+    <td><img src="https://github.com/MayankChowdhary/BrotherhoodNotes/blob/master/screenshots/Screenshot6.png" >
+</td>
+    <td><img src="https://github.com/MayankChowdhary/BrotherhoodNotes/blob/master/screenshots/Screenshot5.png" >
+</td>
+    
+    
+</tr>
+</table>
