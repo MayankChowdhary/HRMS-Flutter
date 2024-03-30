@@ -37,7 +37,7 @@ Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.ea
 </td>
     <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot5.jpg" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot6.webp" >
+    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot6.jpeg" >
 </td>
 
 
