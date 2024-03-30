@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238002367713",
+    "project_id": "tys-attendance",
+    "storage_bucket": "tys-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238002367713:android:9027ae8204bb17a2481ba0",
+        "android_client_info": {
+          "package_name": "com.example.employee_attendance_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238002367713-0ajkhsdjqu6klqhmbb6ie7661ru23pun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTzTY85Vp6u2i2YYCwLc2Sfu0ZSQCTn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238002367713-0ajkhsdjqu6klqhmbb6ie7661ru23pun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
