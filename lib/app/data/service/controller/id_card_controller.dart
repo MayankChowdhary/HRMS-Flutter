@@ -65,4 +65,9 @@ class IDCARDController extends SuperController {
     update();
   }
 
+  @override
+  void onHidden() {
+    // TODO: implement onHidden
+  }
+
 }

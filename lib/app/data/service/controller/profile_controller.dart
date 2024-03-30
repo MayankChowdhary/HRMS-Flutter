@@ -456,4 +456,9 @@ class ProfileController extends SuperController {
     pancardController.text = bankInfo.value?.pancard ?? "unavailable";
     aadharcardController.text = bankInfo.value?.aadharcard ?? "unavailable";
   }
+
+  @override
+  void onHidden() {
+    // TODO: implement onHidden
+  }
 }

@@ -44,7 +44,7 @@ dependencies:
   get_storage: ^2.0.3
 
   #To use HTTP resources like get, post, put etc
-  http: ^0.13.5
+  http: ^1.2.1
 
   #To use for loading indicator such as in API call etc
   flutter_easyloading: ^3.0.5
@@ -53,32 +53,32 @@ dependencies:
   flutter_svg: ^2.0.0+1
 
   #for current gps location
-  geolocator: ^9.0.2
-  geocoding: ^2.0.5
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
 
   #for pie chart
   pie_chart: ^5.3.2
 
   #date time formatter
-  intl: ^0.18.0
+  intl: ^0.19.0
 
   #for device vibration
   vibration: ^1.7.6
 
   #to get app advance info
-  package_info_plus: ^3.0.3
+  package_info_plus: ^6.0.0
 
   #to get device  info
-  device_info_plus: ^8.1.0
+  device_info_plus: ^10.0.1
 
   #to handle device permissions
-  permission_handler: ^10.2.0
+  permission_handler: ^11.3.1
 
   #animation library
-  lottie: ^2.2.0
+  lottie: ^3.1.0
 
   #play notification tones
-  audioplayers: ^3.0.1
+  audioplayers: ^6.0.0
 
   #For expandable view on click
   expandable: ^5.0.1
@@ -87,10 +87,10 @@ dependencies:
   url_launcher: ^6.1.9
 
   #browse image from gallery
-  image_picker: ^0.8.6+1
+  image_picker: ^1.0.7
 
   #for cropping image
-  image_cropper: ^3.0.1
+  image_cropper: ^5.0.1
 
   #for context popup menus
   contextmenu: ^3.0.0
@@ -99,10 +99,10 @@ dependencies:
 
   pdf: ^3.9.0
   printing: ^5.10.1
-  file_picker: ^5.2.5
+  file_picker: ^8.0.0+1
   firebase_core: ^2.7.0
   firebase_messaging: ^14.2.5
-  flutter_local_notifications: ^13.0.0
+  flutter_local_notifications: ^17.0.0
 
 
 dev_dependencies:
@@ -114,7 +114,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

@@ -24,15 +24,15 @@ Future<void> _firebaseMessagingBackgroundHandler(RemoteMessage message) async {
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await GetStorage.init(AppConstants.kAppName);
-  const AudioContext audioContext = AudioContext(
+   AudioContext audioContext = AudioContext(
     iOS: AudioContextIOS(
-      category: AVAudioSessionCategory.ambient,
-      options: [
+      category: AVAudioSessionCategory.playAndRecord,
+      options:  const {
         AVAudioSessionOptions.defaultToSpeaker,
         AVAudioSessionOptions.mixWithOthers,
-      ],
+      },
     ),
-    android: AudioContextAndroid(
+    android: const AudioContextAndroid(
       isSpeakerphoneOn: true,
       stayAwake: true,
       contentType: AndroidContentType.sonification,
@@ -40,7 +40,7 @@ Future<void> main() async {
       audioFocus: AndroidAudioFocus.gainTransientMayDuck,
     ),
   );
-  AudioPlayer.global.setGlobalAudioContext(audioContext);
+  AudioPlayer.global.setAudioContext(audioContext);
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );

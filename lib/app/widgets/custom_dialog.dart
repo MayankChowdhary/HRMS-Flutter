@@ -90,7 +90,7 @@ class CustomDialog extends StatelessWidget {
                         onCancel?.call();
                       },
                       style: ElevatedButton.styleFrom(
-                          primary: AppColors.kPrimaryColor,
+                          backgroundColor: AppColors.kPrimaryColor,
                           shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.only(
                             topLeft: Radius.circular(Dimensions.radius10),
@@ -117,7 +117,7 @@ class CustomDialog extends StatelessWidget {
                           onOk?.call();
                         },
                         style: ElevatedButton.styleFrom(
-                            primary: AppColors.kPrimaryColor,
+                            backgroundColor: AppColors.kPrimaryColor,
                             shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.only(
                               topRight: Radius.circular(Dimensions.radius10),

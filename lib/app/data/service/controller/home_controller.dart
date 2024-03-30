@@ -364,4 +364,9 @@ class HomeController extends SuperController  {
       NotificationManagers.showNotification(message);
     });
   }
+
+  @override
+  void onHidden() {
+    // TODO: implement onHidden
+  }
 }

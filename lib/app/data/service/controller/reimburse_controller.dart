@@ -247,4 +247,9 @@ class ReimburseController extends SuperController {
     final newString = original.replaceAll(find, replaceWith);
     return newString;
   }
+
+  @override
+  void onHidden() {
+    // TODO: implement onHidden
+  }
 }

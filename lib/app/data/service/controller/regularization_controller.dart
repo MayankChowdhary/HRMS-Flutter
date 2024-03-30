@@ -110,4 +110,9 @@ class RegularizationController extends SuperController {
     }
   }
 
+  @override
+  void onHidden() {
+    // TODO: implement onHidden
+  }
+
 }
