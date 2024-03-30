@@ -1,5 +1,4 @@
 # HRMS-Flutter
-This is Human Resource Management APP in Flutter.
 
 This is Human Resource Management App for office
 employees. In this app employee can register their
@@ -9,10 +8,20 @@ attendance with present, absent, Late. in pie chart
 and Table view. Can apply for Regularization,
 Resignation, Reimbursement and ID-Card.
 
-Technology Used:
-Flutter , Dart, Getx State management, PDF generator,
-PieChart, Location package, TableView, Push
-Notifications.
+**Components Used:**
+- Dependency Injection 
+- Flutter
+- Dart 
+- Getx State management 
+- PDF generator 
+- PieChart 
+- Geolocator 
+- TableView 
+- Firebase cloud messaging
+- local notifications
+- Lottie Animations
+- Audio players
+- PDF Printer
 
 Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.eattendanceapp
 
