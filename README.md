@@ -20,11 +20,11 @@ Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.ea
 
 <table style="width:100%">
   <tr>
-     <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot4.webp" >
+     <td><img width="300" src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot4.webp" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot2.webp" >
+    <td><img width="300" src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot2.webp" >
 </td>
-    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot3.webp" >
+    <td><img width="300" src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot3.webp" >
 </td>
     
     
