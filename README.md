@@ -29,4 +29,15 @@ Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.ea
     
     
 </tr>
+
+ <tr>
+     <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot1.webp" >
+</td>
+    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot5.jpg" >
+</td>
+    <td><img src="https://github.com/MayankChowdhary/HRMS-Flutter/blob/master/screenshots/screenshot6.webp" >
+</td>
+
+
+</tr>
 </table>
